@@ -1,2 +1,1 @@
-# GentleStreet
-Automated self developing website of D-KheeM music and creative studio career
+Gentle Street elite v2 downloadable. Add Firebase config to forms.js and Instagram API keys for live feed. Deploy to Vercel.
